@@ -26,6 +26,9 @@
 - ROC Curve
 - Precision-Recall Curve
 
+### The Interactive Mushroom ML App
+- https://share.streamlit.io/marrycv/mushroom/main
+
 ### To download and run locally
 
 - clone repository/download files in the repository
