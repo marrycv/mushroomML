@@ -27,7 +27,7 @@
 - Precision-Recall Curve
 
 ### The Interactive Mushroom ML App
-- https://share.streamlit.io/marrycv/mushroom/main
+- https://share.streamlit.io/marrycv/mushroomml/main
 
 ### To download and run locally
 
